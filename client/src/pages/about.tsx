@@ -13,18 +13,16 @@ export default function About() {
           <div>
             <h3 className="font-display text-2xl font-semibold mb-6">Về Trò Chơi</h3>
             <p className="text-muted-foreground mb-6 leading-relaxed">
-              "Hào Khí Lửa Tre" là một dự án game indie tham vọng, kể về hành trình của một chiến binh 
-              trong thế giới võ thuật cổ đại Việt Nam. Được phát triển trên nền tảng Unreal Engine 5, 
-              trò chơi mang đến trải nghiệm cinematic với đồ họa tuyệt đẹp và gameplay sâu sắc.
+              "Hao Khi Lua Tre" is an action-adventure game project, inspired by the legend of Thanh Giong.
+              The story takes place after Thanh Giong has ascended to heaven. Players will follow Luc, an ordinary farmer forced to stand up and fight against the Hoa Van enemy forces after his village is destroyed.
             </p>
             <p className="text-muted-foreground leading-relaxed">
-              Câu chuyện xoay quanh những giá trị truyền thống về danh dự, lòng dũng cảm và tinh thần 
-              bất khuất của dân tộc Việt Nam, được thể hiện qua hành trình của nhân vật chính.
+              The game both carries the breath of Vietnamese culture and history, while combining modern action gameplay, promising to bring a new and emotional role-playing experience.
             </p>
           </div>
           <div className="relative">
             <img 
-              src="https://images.unsplash.com/photo-1518709268805-4e9042af2176?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=400" 
+              src="https://drive.google.com/uc?export=view&id=1zb0x_slh1eNf8vnqMIS9CSMV-5WdKTvN" 
               alt="Concept art game Hào Khí Lửa Tre" 
               className="rounded-lg shadow-xl"
             />
@@ -35,7 +33,7 @@ export default function About() {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
           <div className="order-2 lg:order-1">
             <img 
-              src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=400" 
+              src="https://drive.google.com/uc?export=view&id=1Uyh11i64WitKgoZfHk6YAH3-XteyODt1" 
               alt="Team The Weakened đang phát triển game" 
               className="rounded-lg shadow-xl"
             />
@@ -43,13 +41,10 @@ export default function About() {
           <div className="order-1 lg:order-2">
             <h3 className="font-display text-2xl font-semibold mb-6">Team The Weakened Team</h3>
             <p className="text-muted-foreground mb-6 leading-relaxed">
-              Chúng tôi là một nhóm nhỏ các nhà phát triển game độc lập tại Việt Nam, đam mê tạo ra 
-              những trải nghiệm game độc đáo mang đậm dấu ấn văn hóa bản địa. Với kinh nghiệm trong 
-              ngành game và sự say mê với công nghệ hiện đại.
+              We are a group of 3D Graphic Design students, working together to develop an indie game project with a storyline, characters and a world built by the group itself. Although we have not been able to implement the programming part, the group has focused on completing the script, designing images, building characters, environments and animations to outline the spirit of the game.
             </p>
             <p className="text-muted-foreground leading-relaxed mb-8">
-              Mục tiêu của chúng tôi là đưa những câu chuyện và giá trị Việt Nam đến với cộng đồng 
-              game thế giới thông qua những sản phẩm chất lượng cao.
+              The current product is introduced through a pre-rendered cinematic video simulating gameplay and a story trailer. This is not only the beginning of our game making journey, but also an opportunity to learn, experience the production process and share our passion for creativity with the community.
             </p>
             
             <div className="space-y-4">

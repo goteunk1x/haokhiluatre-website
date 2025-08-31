@@ -27,8 +27,7 @@ export default function HeroModern() {
           Cinematic UE5 — dự án indie bởi The Weakened Team
         </p>
         <p className="text-lg text-foreground/80 mb-12 max-w-2xl mx-auto">
-          Khám phá thế giới võ thuật cổ đại với công nghệ đồ họa hiện đại. 
-          Trải nghiệm câu chuyện đầy cảm xúc về danh dự và lửa tre bất diệt.
+          An action-adventure game inspired by the legend of Thanh Giong, following Luc's journey as he fights against the Hoa Van forces to protect his homeland.
         </p>
         
         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">

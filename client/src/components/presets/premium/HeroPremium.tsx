@@ -127,8 +127,7 @@ export default function HeroPremium() {
                 lineHeight: '1.8',
               }}
             >
-              Khám phá thế giới võ thuật cổ đại với công nghệ đồ họa hiện đại. 
-              Trải nghiệm câu chuyện đầy cảm xúc về danh dự và lửa tre bất diệt.
+              An action-adventure game inspired by the legend of Thanh Giong, following Luc's journey as he fights against the Hoa Van forces to protect his homeland.
             </p>
           </div>
           
