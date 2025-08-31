@@ -127,7 +127,7 @@ export default function HeroPremium() {
                 lineHeight: '1.8',
               }}
             >
-              An action-adventure game inspired by the legend of Thanh Giong, following Luc's journey as he fights against the Hoa Van forces to protect his homeland.
+              Tái hiện một câu chuyện giả tưởng hậu Thánh Gióng, nơi người nông dân Văn Lang gánh vác di sản thiêng liêng để chống lại thế lực ma quỷ phương Bắc.
             </p>
           </div>
           
