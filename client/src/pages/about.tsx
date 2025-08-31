@@ -13,11 +13,11 @@ export default function About() {
           <div>
             <h3 className="font-display text-2xl font-semibold mb-6">Về Trò Chơi</h3>
             <p className="text-muted-foreground mb-6 leading-relaxed">
-              "Hao Khi Lua Tre" is an action-adventure game project, inspired by the legend of Thanh Giong.
-              The story takes place after Thanh Giong has ascended to heaven. Players will follow Luc, an ordinary farmer forced to stand up and fight against the Hoa Van enemy forces after his village is destroyed.
+              "Hào Khí Lửa Tre" là một dự án game hành động – phiêu lưu, lấy cảm hứng từ truyền thuyết Thánh Gióng.
+              Câu chuyện diễn ra sau khi Thánh Gióng đã bay về trời. Người chơi sẽ theo chân Lực, một người nông dân bình thường buộc phải đứng lên chiến đấu chống lại thế lực giặc Hỏa Vân sau khi ngôi làng của anh bị tàn phá.
             </p>
             <p className="text-muted-foreground leading-relaxed">
-              The game both carries the breath of Vietnamese culture and history, while combining modern action gameplay, promising to bring a new and emotional role-playing experience.
+              Trò chơi vừa mang hơi thở văn hóa – lịch sử Việt Nam, vừa kết hợp lối chơi hành động hiện đại, hứa hẹn đem đến một trải nghiệm nhập vai mới mẻ và đầy cảm xúc.
             </p>
           </div>
           <div className="relative">
@@ -41,10 +41,10 @@ export default function About() {
           <div className="order-1 lg:order-2">
             <h3 className="font-display text-2xl font-semibold mb-6">Team The Weakened Team</h3>
             <p className="text-muted-foreground mb-6 leading-relaxed">
-              We are a group of 3D Graphic Design students, working together to develop an indie game project with a storyline, characters and a world built by the group itself. Although we have not been able to implement the programming part, the group has focused on completing the script, designing images, building characters, environments and animations to outline the spirit of the game.
+              Chúng mình là nhóm sinh viên ngành Thiết kế Đồ họa 3D, cùng nhau phát triển một dự án game indie với cốt truyện, nhân vật và thế giới riêng do chính nhóm xây dựng. Dù chưa thể triển khai phần lập trình, nhóm đã tập trung hoàn thiện kịch bản, thiết kế hình ảnh, dựng nhân vật, môi trường và các đoạn diễn hoạt để phác họa tinh thần của trò chơi.
             </p>
             <p className="text-muted-foreground leading-relaxed mb-8">
-              The current product is introduced through a pre-rendered cinematic video simulating gameplay and a story trailer. This is not only the beginning of our game making journey, but also an opportunity to learn, experience the production process and share our passion for creativity with the community.
+              Sản phẩm hiện tại được giới thiệu thông qua video cinematic pre-rendered mô phỏng gameplay và trailer cốt truyện. Đây không chỉ là bước khởi đầu cho hành trình làm game của chúng mình, mà còn là cơ hội để học hỏi, trải nghiệm quy trình sản xuất và chia sẻ đam mê sáng tạo với cộng đồng.
             </p>
             
             <div className="space-y-4">
