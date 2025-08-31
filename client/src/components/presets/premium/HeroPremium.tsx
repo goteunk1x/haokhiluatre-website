@@ -1,7 +1,8 @@
 import { useState, useEffect } from 'react';
 import { Link } from 'wouter';
 import { Play, Box, ArrowRight, Sparkles } from 'lucide-react';
-import backgroundVideo from '../../../assets/background-video.mp4';
+
+const backgroundVideo = 'https://drive.google.com/uc?export=view&id=1jpwM8mPLnbtId4U_N_E2jw_5d1D_TZqH';
 
 export default function HeroPremium() {
   const [mousePosition, setMousePosition] = useState({ x: 0, y: 0 });

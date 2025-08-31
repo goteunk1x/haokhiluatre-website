@@ -1,6 +1,7 @@
 import { Link } from 'wouter';
 import { Play, Box } from 'lucide-react';
-import backgroundVideo from '../../../assets/background-video.mp4';
+
+const backgroundVideo = 'https://drive.google.com/uc?export=view&id=1jpwM8mPLnbtId4U_N_E2jw_5d1D_TZqH';
 
 export default function HeroModern() {
   return (
